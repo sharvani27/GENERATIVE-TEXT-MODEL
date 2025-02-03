@@ -102,3 +102,5 @@ interface.launch()
 interface.launch(): Launches the Gradio interface, which opens a local web page (or an external URL if deployed) where users can interact with the text generation model.
 
 *OUTPUT*:
+
+![Image](https://github.com/user-attachments/assets/6e96dbf4-1d77-4e8f-ae66-1218235605c6)
